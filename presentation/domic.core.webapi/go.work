@@ -1,0 +1,5 @@
+use (
+	.
+	"../../infrastructure/domic.core.infrastructure"
+	"../../infrastructure/domic.core.persistence"
+)
