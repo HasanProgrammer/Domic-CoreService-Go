@@ -1,5 +1,6 @@
-
 use (
 	.
 	"../../core/domic.core.usecase"
 )
+
+go 1.23.0

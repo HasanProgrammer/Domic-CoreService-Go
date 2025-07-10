@@ -3,3 +3,5 @@ use (
 	"../../infrastructure/domic.core.infrastructure"
 	"../../infrastructure/domic.core.persistence"
 )
+
+go 1.23.0

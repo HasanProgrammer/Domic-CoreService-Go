@@ -2,3 +2,5 @@ use (
 	.
 	"../domic.core.domain"
 )
+
+go 1.23.0
